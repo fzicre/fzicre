@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fzicre
+- 👋 Hi, I’m @fzicre Full Stack Developer
 - 👀 I’m interested in learning everything
 - 🌱 I’m currently learning Node.JS, APIs creation, Bots. 
 
