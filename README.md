@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fzicre Full Stack Developer
 - 👀 I’m interested in learning everything
-- 🌱 I’m currently learning Node.JS, APIs creation, Bots. 
+- 🌱 I’m currently learning everything about LLMs
 
 <!---
 fzicre/fzicre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
